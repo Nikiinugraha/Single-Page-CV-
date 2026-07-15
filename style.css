@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card {
+    border: 2px solid black;
+    padding: 20px;
+    width: 50%;
+}
+
+header {
+    border: 0;
+    border-top: 5px solid black;
+    width: 50%;
+}
+header h3 {
+    color: rgb(95, 190, 0);
+}
+.skills h3, .education h3, .experience h3, .social-media h3 {
+    color: rgb(95, 190, 0);
+}
